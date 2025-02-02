@@ -2,14 +2,6 @@
 
 A sleek, modern widget that displays the current time and date in an attractive, responsive design. The widget features a smooth gradient background, dynamic color transitions, and animated clock elements.
 
-## Preview
-
-Here’s how the widget looks:
-
-![Time and Date Widget](image.png)
-
-The widget dynamically updates the time and date every second, with vibrant color-coded time elements (Hours: Orange, Minutes: Blue, Seconds: Red). The date is displayed in a calm cyan tone for easy readability.
-
 ## Features
 
 - Displays current time with hours, minutes, and seconds.
@@ -17,6 +9,14 @@ The widget dynamically updates the time and date every second, with vibrant colo
 - Elegant visual effects, including color transitions and shadow animations.
 - Fully responsive design: adapts seamlessly to different screen sizes.
 - Stylish gradient background and text animations for a more interactive experience.
+
+## Preview
+
+Here’s how the widget looks:
+
+![Time and Date Widget](image.png)
+
+The widget dynamically updates the time and date every second, with vibrant color-coded time elements (Hours: Orange, Minutes: Blue, Seconds: Red). The date is displayed in a calm cyan tone for easy readability.
 
 ## How it Works
 
